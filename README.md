@@ -12,6 +12,5 @@
 | https://cabinet.sfs.gov.ua/ | Кабінет платника податків |
 | https://index.minfin.com.ua/labour/salary/min/ | Мінімальна зарплата |
 | http://sfs.gov.ua/dovidniki--reestri--perelik/ | Довідники, реєстри ДФС |
-|https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate
-| Курси валют НБУ |
+| https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate | Курси валют НБУ |
 | https://bank.gov.ua/control/uk/publish/article?art_id=25327817 | Відкриті дані НБУ |
