@@ -17,3 +17,4 @@
 | https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate | Курси валют НБУ |
 | https://bank.gov.ua/control/uk/publish/article?art_id=25327817 | Відкриті дані НБУ |
 | https://osvita.ua/school/rating/ | Рейтинг шкіл |
+| https://opendata.dniprorada.gov.ua | Відкриті дані міськради Дніпра |
