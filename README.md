@@ -8,6 +8,7 @@
 | http://opendata.rada.gov.ua/ | Верховна Рада України
 | http://egap.in.ua/innovatsiyi/ | EGAP |
 | http://map.land.gov.ua/kadastrova-karta | Земельний кадастр, карта |
+| http://mkk.kga.gov.ua/ | Земельний кадастр Києва, карта |
 | http://chesno.org | ГО "Чесно" | 
 | https://opendatabot.com/ | OpenDataBot |
 | https://wanted.mvs.gov.ua/ | База розшуку МВС |
