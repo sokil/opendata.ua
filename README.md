@@ -20,3 +20,5 @@
 | https://osvita.ua/school/rating/ | Рейтинг шкіл |
 | https://opendata.dniprorada.gov.ua | Відкриті дані міськради Дніпра |
 | https://dostup.pravda.com.ua/body/list/all | "Доступ до правди", агрегатор |
+| https://www.e.gov.ua/ua ||
+| https://id.gov.ua/ ||
