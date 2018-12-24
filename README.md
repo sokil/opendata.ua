@@ -2,7 +2,7 @@
 
 Відкриті дані, довідники, реєстри України
 
-| Джерело | Опис джерела |
+| Джерело | Опис |
 |---------------------------|------------------------------------|
 | http://data.gov.ua | Єдиний державний веб портал відкритих даних
 | http://opendata.rada.gov.ua/ | Верховна Рада України
@@ -22,3 +22,14 @@
 | https://dostup.pravda.com.ua/body/list/all | "Доступ до правди", агрегатор |
 | https://www.e.gov.ua/ua ||
 | https://id.gov.ua/ ||
+
+# Політика
+
+| Джерело | Опис |
+|---------------------------|------------------------------------|
+| https://declarations.com.ua/ | |
+| https://zvity.org/ | |
+| https://www.chesno.org/ | |
+| https://posipaky.info/ | |
+| https://posipaky-2.info/ | |
+| https://garnahata.in.ua/ | |
