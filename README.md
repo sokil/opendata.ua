@@ -13,6 +13,7 @@
 | https://opendatabot.com/ | OpenDataBot |
 | https://wanted.mvs.gov.ua/ | База розшуку МВС |
 | https://cabinet.sfs.gov.ua/ | Кабінет платника податків |
+| https://usr.minjust.gov.ua/ua/freesearch | Єдиний державний реєстр юридичних осіб, фізичних осіб-підприємців та громадських формувань |
 | https://index.minfin.com.ua/labour/salary/min/ | Мінімальна зарплата |
 | http://sfs.gov.ua/dovidniki--reestri--perelik/ | Довідники, реєстри ДФС |
 | https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate | Курси валют НБУ |
