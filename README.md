@@ -25,11 +25,15 @@
 
 ### Земля
 
+| Джерело | Опис |
+|----|--------|
 | http://map.land.gov.ua/kadastrova-karta | Земельний кадастр, карта |
 | http://mkk.kga.gov.ua/ | Земельний кадастр Києва, карта |
 
 ### Податки
 
+| Джерело | Опис |
+|----|--------|
 | https://cabinet.sfs.gov.ua/ | Кабінет платника податків |
 | https://usr.minjust.gov.ua/ua/freesearch | Єдиний державний реєстр юридичних осіб, фізичних осіб-підприємців та громадських формувань |
 | https://index.minfin.com.ua/labour/salary/min/ | Мінімальна зарплата |
@@ -37,6 +41,8 @@
 
 ### Фінанси
 
+| Джерело | Опис |
+|----|--------|
 | https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate | Курси валют НБУ |
 | https://bank.gov.ua/control/uk/publish/article?art_id=25327817 | Відкриті дані НБУ |
 
