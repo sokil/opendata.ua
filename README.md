@@ -6,7 +6,6 @@
 |---------------------------|------------------------------------|
 | http://data.gov.ua | Єдиний державний веб портал відкритих даних
 | http://egap.in.ua/innovatsiyi/ | EGAP |
-| http://chesno.org | ГО "Чесно" | 
 | https://opendatabot.com/ | OpenDataBot |
 | https://osvita.ua/school/rating/ | Рейтинг шкіл |
 | https://opendata.dniprorada.gov.ua | Відкриті дані міськради Дніпра |
@@ -52,7 +51,7 @@
 |----|--------|
 | https://declarations.com.ua/ | |
 | https://zvity.org/ | |
-| https://www.chesno.org/ | |
+| http://chesno.org | ГО "Чесно" | 
 | https://posipaky.info/ | |
 | https://posipaky-2.info/ | |
 | https://garnahata.in.ua/ | |
