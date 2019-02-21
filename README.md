@@ -21,6 +21,7 @@
 | https://portal.pfu.gov.ua/ | Пенсійний фонд України |
 | http://opendata.rada.gov.ua/ | Верховна Рада України |
 | https://wanted.mvs.gov.ua/ | База розшуку МВС |
+| https://inspections.gov.ua/ | План інспекцій |
 
 ### Земля
 
