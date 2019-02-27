@@ -46,7 +46,7 @@
 | https://bank.gov.ua/control/uk/curmetal/currency/search?formType=searchFormDate | Курси валют НБУ |
 | https://bank.gov.ua/control/uk/publish/article?art_id=25327817 | Відкриті дані НБУ |
 
-### Політика / Антикорупція
+### Політика / Антикорупція / Громадські організації
 
 * https://bihus.info/projects - Проекти bigus.info
   * https://ring.org.ua - проект Bihus.info (ГО Канцелярська сотня). Це пошукова система, яка містить (міститиме) усі державні відкриті офіційні бази даних ( Єдиний державний реєстр, Декларації, СМІДА й інші) із гнучким доступом до всіх їх даних.
