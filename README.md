@@ -6,6 +6,7 @@
 |---------------------------|------------------------------------|
 | http://data.gov.ua | Єдиний державний веб портал відкритих даних |
 | https://github.com/OpenData835/Awesome835 | Зведений список всіх існуючих інструментів, стандартів, реєстрів та решти за відкритими даними в Україні |
+| http://www.ukrstat.gov.ua/ | держслужба статистики України |
 | http://egap.in.ua/innovatsiyi/ | EGAP |
 | https://opendatabot.com/ | OpenDataBot |
 | https://osvita.ua/school/rating/ | Рейтинг шкіл |
