@@ -38,6 +38,9 @@
 | Джерело | Опис |
 |----|--------|
 | https://cabinet.sfs.gov.ua/ | Кабінет платника податків |
+| http://80.91.165.208/E-Receipt/| Електронні РРО |
+| http://cabinet.sfs.gov.ua/cashregs/ | Реєстрація РРО | 
+| https://cabinet.tax.gov.ua/cashregs/check | Фіскальні чеки |
 | https://usr.minjust.gov.ua/ua/freesearch | Єдиний державний реєстр юридичних осіб, фізичних осіб-підприємців та громадських формувань |
 | https://index.minfin.com.ua/labour/salary/min/ | Мінімальна зарплата |
 | http://sfs.gov.ua/dovidniki--reestri--perelik/ | Довідники, реєстри ДФС |
